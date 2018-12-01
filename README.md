@@ -1,1 +1,9 @@
-# advent-of-code-2018
+# Advent of Code 2018
+
+My solutions to: http://adventofcode.com/2018
+
+I'm mainly a JS developer, so my solutions are written in JS and you can run them in node, like:
+
+```bash
+node 01.js
+```
