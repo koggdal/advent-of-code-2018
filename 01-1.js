@@ -13,7 +13,6 @@ function main() {
   }
 
   console.clear();
-  console.log('--- Part 1 ---');
   console.log(
     'Test (+1, +1, +1):',
     getResultingFrequency('+1, +1, +1', 0) === 3

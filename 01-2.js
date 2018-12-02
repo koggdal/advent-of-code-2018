@@ -19,7 +19,6 @@ function main() {
   }
 
   console.clear();
-  console.log('--- Part 1 ---');
   console.log('Test (+1, -1):', findFirstDuplicateFrequency('+1, -1') === 0);
   console.log(
     'Test (+3, +3, +4, -2, -4):',

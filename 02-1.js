@@ -31,7 +31,6 @@ function main() {
   }
 
   console.clear();
-  console.log('--- Part 1 ---');
   console.log(
     'Test:',
     getChecksum(
